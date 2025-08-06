@@ -1,0 +1,18 @@
+
+.external-button {
+  padding: 10px 20px;
+  background: linear-gradient(135deg, hsl(231, 100%, 50%), #6ae9ff);
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.external-button:hover {
+  background-color: #365899;
+}
